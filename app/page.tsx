@@ -7,29 +7,29 @@ import { ExternalLink, QrCode as QrIcon, ShieldCheck, Copy, Check, School } from
 
 const SAMPLE_TOKENS = [
   {
-    title: 'Valid Student — Dues Pending (৳500)',
-    name: 'Md. Imran Hasan',
+    title: 'Valid Student — Dues Pending (৳1000)',
+    name: 'MD ARAFAT ZAYED LAM',
     token: '98f3334d22dbdf6052f04868180f94cf3d7a641351fbcab3817142d7a48867f9',
     badge: 'bg-emerald-100 text-emerald-800',
     status: 'Authentic',
   },
   {
     title: 'Valid Student — All Dues Cleared (৳0)',
-    name: 'Sara Al-Mansoor',
+    name: 'MD AROB JUBER ALIF',
     token: 'b4c2e6d198f3334d22dbdf6052f04868180f94cf3d7a641351fbcab3817142a1',
     badge: 'bg-blue-100 text-blue-800',
     status: 'Authentic',
   },
   {
     title: 'Revoked / Suspended Admit Card',
-    name: 'Tanvir Ahmed',
+    name: 'MD MILON MOHON',
     token: 'a1b2c3d4e5f60718293a4b5c6d7e8f90123456789abcdef0123456789abcdef0',
     badge: 'bg-amber-100 text-amber-800',
     status: 'Suspended',
   },
   {
     title: 'Unregistered / Invalid Token',
-    name: 'Random Unknown Hash',
+    name: 'MD IMRAN TALUKDAR',
     token: '0000000000000000000000000000000000000000000000000000000000000000',
     badge: 'bg-rose-100 text-rose-800',
     status: 'Invalid',
