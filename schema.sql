@@ -40,34 +40,12 @@ insert into public.admit_cards (
 ) values 
 (
     '98f3334d22dbdf6052f04868180f94cf3d7a641351fbcab3817142d7a48867f9',
-    'Md. Imran Hasan',
-    '282310005101001',
+    'Arafat Zayed LAM',
+    '1068',
     'Department of Computer Science & Engineering',
     'BSc in Computer Science & Engineering (CSE)',
     'Mid-Term Examination Fall-2026',
     'Fall 2026',
-    500.00,
+    0,
     true
-),
-(
-    'b4c2e6d198f3334d22dbdf6052f04868180f94cf3d7a641351fbcab3817142a1',
-    'Sara Al-Mansoor',
-    '282310005101042',
-    'Department of Business Administration',
-    'Bachelor of Business Administration (BBA)',
-    'Final Term Examination Fall-2026',
-    'Fall 2026',
-    0.00,
-    true
-),
-(
-    'a1b2c3d4e5f60718293a4b5c6d7e8f90123456789abcdef0123456789abcdef0',
-    'Tanvir Ahmed (Suspended)',
-    '282310005109999',
-    'Department of Electrical & Electronic Engineering',
-    'BSc in Electrical & Electronic Engineering (EEE)',
-    'Mid-Term Examination Fall-2026',
-    'Fall 2026',
-    1500.00,
-    false
 );
